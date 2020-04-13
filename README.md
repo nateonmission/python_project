@@ -1,25 +1,13 @@
-# Python Project
-## What is it
+# Video Game Stats
+## Looking at 40 years of video game sales
 
-Description.
+This Jupyter Notebook reads a csf file containing the sales information for the release year of video game title from 1980 to 2020. It then creates a SQLite DB and copies the csv data into it. It then perfoms a number of queries on the data to give a picture of the history of video games.
 
 ## Technical Summary
 
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-* Item 5
+* Pandas
+* Seaborn
+* Numpy
 
 ## How to make project work
-* Item 1
-
-## Features
-
-* Item 1
-
-## Milestone List
-
-1. Action One
-
-2. Action Two
+* It should be able to be opened in any Jupyter session
